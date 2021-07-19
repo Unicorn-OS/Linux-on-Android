@@ -4,6 +4,7 @@ https://termux.com/
 # Wiki
 https://wiki.termux.com/wiki/Main_Page
 
+Important
 - https://wiki.termux.com/wiki/Getting_started
 - https://wiki.termux.com/wiki/Differences_from_Linux
 
