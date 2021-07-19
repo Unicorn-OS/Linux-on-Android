@@ -15,4 +15,5 @@ https://wiki.termux.com/wiki/Software
 https://wiki.termux.com/wiki/Graphical_Environment
 
 # Relation:
-[NDK](https://developer.android.com/ndk)
+- [NDK](https://developer.android.com/ndk)
+- https://en.wikipedia.org/wiki/Bionic_(software)
