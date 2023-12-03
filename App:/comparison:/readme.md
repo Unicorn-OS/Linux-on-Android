@@ -6,3 +6,5 @@ https://www.google.com/search?q=termux+vs+pydroid
 https://www.google.com/search?q=termux+vs+nix+on+droid
 
 https://www.google.com/search?q=termux+vs+connectbot
+
+https://www.reddit.com/r/termux/comments/cog1iz/alternatives_for_termux/
