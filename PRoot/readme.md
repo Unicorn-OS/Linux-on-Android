@@ -6,3 +6,4 @@ https://github.com/termux/proot
 
 # Doc
 https://sdrausty.github.io/termux-archlinux/docs/PRoot
+https://wiki.termux.com/wiki/PRoot
