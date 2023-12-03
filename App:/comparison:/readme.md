@@ -1,3 +1,5 @@
+https://www.google.com/search?q=termux+vs+*
+
 https://www.google.com/search?q=termux+vs+userland
 
 https://www.google.com/search?q=termux+vs+pydroid
