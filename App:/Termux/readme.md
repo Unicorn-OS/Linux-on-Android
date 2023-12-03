@@ -1,5 +1,7 @@
-home:  
+Home:  
 https://termux.com/
+
+https://termux.dev/en/
 
 # Wiki
 https://wiki.termux.com/wiki/Main_Page
