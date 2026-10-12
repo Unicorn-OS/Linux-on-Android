@@ -5,4 +5,6 @@ https://share.google/aimode/L8DjNxjo8tvEHZ2m5
 # Guide:
 - [Install Full Linux Desktop on Android 16 | Android 16 Linux terminal with GUI](https://youtu.be/Z2n_WuiW0fk)
 - [Install Linux on ANY Samsung Phone — No Termux, No Root](https://youtu.be/IvvpNrzS21o)
-- [
+
+## Favorite:
+- [Install Real Linux Desktop on Any Android Phone — GPU Accelerated](
