@@ -7,4 +7,4 @@ https://share.google/aimode/L8DjNxjo8tvEHZ2m5
 - [Install Linux on ANY Samsung Phone — No Termux, No Root](https://youtu.be/IvvpNrzS21o)
 
 ## Favorite:
-- [Install Real Linux Desktop on Any Android Phone — GPU Accelerated](
+- [Install Real Linux Desktop on Any Android Phone — GPU Accelerated](https://youtu.be/wH7M9WSyHAk)
